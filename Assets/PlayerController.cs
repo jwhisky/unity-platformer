@@ -45,4 +45,6 @@ public class PlayerController : MonoBehaviour
         }
         player.transform.localScale = scale;
     }
+
+    
 }
